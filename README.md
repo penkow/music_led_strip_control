@@ -1,3 +1,11 @@
+# TODO 
+- [ ] Add Midi Interface to the RPI client
+- [ ] Add Midi over WiFi Server 
+
+## Ressources
+- https://www.tobias-erichsen.de/software/rtpmidi.html
+- https://github.com/ravelox/pimidi
+
 <h1 align="center">
   Music LED Strip Control (MLSC)
 </h1>
